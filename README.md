@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi, I'm - **Panamoni!**
 
-<!--
-**panamoni/panamoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a self-learner. Have explored many different fields. So far I'm stuck on these right now:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ### 💻 Coding
+  * Doing some golang backend dev right now
+  * Also working on my per**ssssss**onal Python projects
+  * And trying to fit in some C++ native application development
+* ### 🎵 Music
+  * I play 🎹 piano, 🎸 guitar, and ukulele(couldn't find the emoji for that😶)
+  * Also do 🎻 orchestral composing
+* ### 🎬 Filming/Cinematography
+  * So far I've finished 🎥 2 short films, so I guess that's some sort of accomplishment...😏
+
+## Currently Learning
+
+A LOT - of EVERYTHING.
+
+## Future Plans/Goals
+
+No plans. Just a bunch of goals.
